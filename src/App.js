@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import About from "./pages/About";
 import NavBar from "./NavBar";
-import { Route, Switch, Redirect } from "react-router-dom";
+import { Route } from "react-router-dom";
 
 
 
