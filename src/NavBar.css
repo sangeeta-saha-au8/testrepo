@@ -1,0 +1,19 @@
+.NavBar{
+  display:flex;  
+  height:15vh;
+  width:90vw;
+  background-color: navy;
+  justify-content: space-around;
+  
+  
+}
+
+h3{
+    margin-top:17px; 
+    color:white;  
+}
+
+a{
+    margin-top:21px; 
+    color:white;
+}
